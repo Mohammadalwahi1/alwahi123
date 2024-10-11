@@ -12,8 +12,8 @@ int main() {
     reamur = (4.0/5.0) * celcius;
 
     // Tampilkan hasil
-    printf("Suhu dalam Fahrenheit: %.2f°F\n", fahrenheit);
-    printf("Suhu dalam Reamur: %.2f°R\n", reamur);
+    printf("Suhu dalam Fahrenheit: %.2fÂ°F\n", fahrenheit);
+    printf("Suhu dalam Reamur: %.2fÂ°R\n", reamur);
 
     return 0;
 }
